@@ -1,0 +1,2 @@
+name = "ama"
+puts name
